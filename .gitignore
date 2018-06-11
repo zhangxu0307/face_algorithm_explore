@@ -1,0 +1,9 @@
+*.t7
+*.dat
+*.h5
+*.jpg
+*.png
+*.npy
+*.pth
+*.pkl
+*.sqlite3

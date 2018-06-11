@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ssh://zhangxu@114.212.84.6:22/home/zhangxu/anaconda3/bin/python" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="Copy of project-level server 'tencent_rinc'">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="rinc_gpu1">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ssh://zhangxu@114.212.84.6:22/home/zhangxu/anaconda3/bin/python">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhangxu/python_project" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
